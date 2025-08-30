@@ -156,6 +156,7 @@ plt.figure(figsize=(10, 8))
 sns.heatmap(cm, annot=True, fmt='d', cmap='viridis')
 plt.xlabel('Predicted')
 plt.ylabel('True')
-plt.title('Confusion Matrix - Vision Transformer MNIST')
+plt.title('G-Machine Extreme ViT Confusion Matrix')
 plt.tight_layout()
 plt.show()
+
