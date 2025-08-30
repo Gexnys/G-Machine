@@ -40,6 +40,24 @@
 
 • Generates a confusion matrix plot showing which digits the model predicts correctly or confuses.
 
+# 5. What changed in the G-Machine update
+
+• Data Augmentation was added (RandomRotation, RandomAffine, RandomErasing) → stronger generalization.
+
+• A lighter & deeper ViT (embedding size = 192, depth = 12, heads = 6) was used → balance between speed and accuracy.
+
+• Stochastic Depth (DropPath) → reduced Transformer overfitting.
+
+• Label Smoothing → CrossEntropyLoss(label_smoothing=0.1) was applied to prevent overfitting.
+
+• Gradient Clipping was added → to prevent exploding gradients.
+
+• Early Stopping → training stops if no improvement is observed for 5 epochs.
+
+• Test-Time Augmentation (TTA) → multiple predictions under small rotations were averaged during inference.
+
+• TensorBoard logger was added → to visualize loss and accuracy.
+
 #Summary
  • G-Machine builds and trains an advanced Vision Transformer to recognize handwritten digits from MNIST. It handles everything from data loading and preprocessing, through training, to evaluation automatically •
 
