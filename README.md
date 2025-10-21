@@ -81,7 +81,7 @@
 
 - Automatic information synthesis system
 
-- ⚠️ Important Note: It is currently inactive; it will be able to train itself soon. For now, you can train it yourself.
+⚠️ Important Note: It is currently inactive; it will be able to train itself soon. For now, you can train it yourself.
 
 # © 2025 Gexnys
 
