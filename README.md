@@ -40,7 +40,7 @@
 
 • Generates a confusion matrix plot showing which digits the model predicts correctly or confuses.
 
-# 5. What changed in the G-Machine update
+# 5. What changed in the G-Machine update 0.2
 
 • Data Augmentation was added (RandomRotation, RandomAffine, RandomErasing) → stronger generalization.
 
@@ -58,8 +58,30 @@
 
 • TensorBoard logger was added → to visualize loss and accuracy.
 
-#Summary
- • G-Machine builds and trains an advanced Vision Transformer to recognize handwritten digits from MNIST. It handles everything from data loading and preprocessing, through training, to evaluation automatically •
+# 6. G-Machine – Version 0.3
+# The Next Generation of Artificial Intelligence
+
+🚀 What's New
+
+- Vision Transformer AI: Advanced model for analyzing images through deep learning
+
+- Smart Search: Real-time information querying with Google integration
+
+- Code Generation: Python, HTML and CSS template support
+
+- Modern Interface: Fast, clean and user-friendly design
+
+⚙️ Technical Specifications
+
+- Local server support (localhost:5000)
+
+- Python 3.8+ compatibility
+
+- Real-time chat infrastructure
+
+- Automatic information synthesis system
+
+# © 2025 Gexnys
 
 # This code was written by Gexnys.
 • Email address: developergokhan@proton.me
