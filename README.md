@@ -58,7 +58,7 @@
 
 • TensorBoard logger was added → to visualize loss and accuracy.
 
-# G-Machine – Version 0.3
+# G-Machine – Version 0.3 
 # The Next Generation of Artificial Intelligence
 
 🚀 What's New
@@ -83,7 +83,6 @@
 
 # © 2025 Gexnys
 
-# This code was written by Gexnys.
 • Email address: developergokhan@proton.me
 
 
