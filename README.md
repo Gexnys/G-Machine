@@ -58,7 +58,7 @@
 
 • TensorBoard logger was added → to visualize loss and accuracy.
 
-# 6. G-Machine – Version 0.3
+# G-Machine – Version 0.3
 # The Next Generation of Artificial Intelligence
 
 🚀 What's New
