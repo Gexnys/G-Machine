@@ -77,7 +77,7 @@
 
 - Python 3.8+ compatibility
 
-- Real-time chat infrastructure
+- Real-time chat infrastructure (It is currently inactive; it will be activated soon.)
 
 - Automatic information synthesis system
 
